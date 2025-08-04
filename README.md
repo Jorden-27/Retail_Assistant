@@ -1,6 +1,6 @@
 # 👕 Retail Q&A Bot (Gemini + LangChain)
 
-An AI-powered chatbot built with **Streamlit**, **LangChain**, and **Gemini Pro** that answers natural language questions about clothing products like brand, size, color, and discounts from a **MySQL** database.
+An AI-powered chatbot built with **Streamlit**, **LangChain**, and **Gemini Pro** that answers natural language questions about clothing products like brand, size, color, and discounts from a **MySQL** database
 
 ---
 
